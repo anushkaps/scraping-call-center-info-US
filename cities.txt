@@ -1,0 +1,403 @@
+Alabama,Alexander City
+Alabama,Andalusia
+Alabama,Anniston
+Alabama,Athens
+Alabama,Atmore
+Alabama,Attalla
+Alabama,Avondale
+Alabama,Bessemer
+Alabama,Birmingham
+Alabama,Brent
+Alabama,Calera
+Alabama,Centerville
+Alabama,Chickasaw
+Alabama,Clanton
+Alabama,Columbiana
+Alabama,Cullman
+Alabama,Demopolis
+Alabama,Enterprise
+Alabama,Florence
+Alabama,Fort Payne
+Alabama,Greensboro
+Alabama,Greenville
+Alabama,Gulf Shores
+Alabama,Hartselle
+Alabama,Helena
+Alabama,Homewood
+Alabama,Hoover
+Alabama,Jacksonville
+Alabama,Jay
+Alabama,Jemison
+Alabama,Lake View
+Alabama,Leeds
+Alabama,Lexington
+Alabama,Lincoln
+Alabama,Livingston
+Alabama,Luverne
+Alabama,Madison
+Alabama,Mobile
+Alabama,Monroeville
+Alabama,Montgomery
+Alabama,Moody
+Alabama,Moulton
+Alabama,Mountain Brook
+Alabama,Muscle Shoals
+Alabama,Nashville
+Alabama,Oneonta
+Alabama,Opelika
+Alabama,Ozark
+Alabama,Pelham
+Alabama,Pine Hill
+Alabama,Prattville
+Alabama,Scottsboro
+Alabama,Selma
+Alabama,Shelby
+Alabama,Silas
+Alabama,Southside
+Alabama,Springville
+Alabama,Trussville
+Alabama,Tuscaloosa
+Alabama,Tuskegee
+Alabama,Valley
+Alabama,Verbena
+Alabama,Victoria
+Alabama,Watson
+Alabama,Woodland
+Alaska,Anchorage
+Alaska,Fairbanks
+Alaska,Juneau
+Alaska,Ketchikan
+Alaska,Sitka
+Arizona,Apache Junction
+Arizona,Avondale
+Arizona,Buckeye
+Arizona,Chandler
+Arizona,Flagstaff
+Arizona,Gilbert
+Arizona,Glendale
+Arizona,Goodyear
+Arizona,Kingman
+Arizona,Litchfield Park
+Arizona,Mesa
+Arizona,Peoria
+Arizona,Prescott
+Arizona,Scottsdale
+Arizona,Surprise
+Arizona,Tucson
+Arizona,Weston
+Arkansas,Benton
+Arkansas,Bentonville
+Arkansas,Conway
+Arkansas,Fayetteville
+Arkansas,Fort Smith
+Arkansas,Hot Springs
+Arkansas,Little Rock
+Arkansas,North Little Rock
+Arkansas,Springdale
+California,Agoura Hills
+California,Alhambra
+California,Antioch
+California,Auburn
+California,Bakersfield
+California,Berkeley
+California,Beverly Hills
+California,Chico
+California,Chula Vista
+California,Claremont
+California,Concord
+California,Corona
+California,Danville
+California,Davis
+California,El Cajon
+California,El Monte
+California,Escondido
+California,Fremont
+California,Fresno
+California,Fullerton
+California,Garden Grove
+California,Huntington Beach
+California,Inglewood
+California,Irving
+California,La Jolla
+California,Laguna Niguel
+California,Lancaster
+California,Livermore
+California,Los Angeles
+California,Madera
+California,Modesto
+California,Monterey Park
+California,Oakland
+California,Orange
+California,Pasadena
+California,Placentia
+California,Porterville
+California,Richmond
+California,Riverside
+California,Rocklin
+California,Salinas
+California,San Bernardino
+California,San Diego
+California,San Francisco
+California,San Jose
+California,San Mateo
+California,Santa Ana
+California,Santa Barbara
+California,Santa Clara
+California,Stockton
+California,Sunnyvale
+California,Temecula
+California,Torrance
+California,Vallejo
+California,Vista
+Colorado,Arvada
+Colorado,Aspen
+Colorado,Boulder
+Colorado,Castle Rock
+Colorado,Colorado Springs
+Colorado,Denver
+Colorado,Durango
+Colorado,Englewood
+Colorado,Fort Collins
+Colorado,Grand Junction
+Colorado,Grand Lake
+Colorado,Louisville
+Colorado,Loveland
+Colorado,Montrose
+Colorado,Northglenn
+Colorado,Thornton
+Colorado,Westminster
+Colorado,Woodland Park
+Connecticut,Bridgeport
+Connecticut,Danbury
+Connecticut,Greenwich
+Connecticut,Manchester
+Connecticut,Meriden
+Connecticut,New Britain
+Connecticut,New Haven
+Connecticut,Stamford
+Connecticut,Waterbury
+Delaware,Dover
+Delaware,Milford
+Delaware,Newark
+Delaware,Wilmington
+Florida,Alachua
+Florida,Altamonte Springs
+Florida,Apopka
+Florida,Avon Park
+Florida,Bartow
+Florida,Boca Raton
+Florida,Bonita Springs
+Florida,Bradenton
+Florida,Brandon
+Florida,Cape Coral
+Florida,Clearwater
+Florida,Coconut Creek
+Florida,Coral Springs
+Florida,Dania Beach
+Florida,Daytona Beach
+Florida,Deerfield Beach
+Florida,Delray Beach
+Florida,Doral
+Florida,Fort Lauderdale
+Florida,Fort Myers
+Florida,Fort Pierce
+Florida,Fort Walton Beach
+Florida,Freeport
+Florida,Gainesville
+Florida,Green Cove Springs
+Florida,Hollywood
+Florida,Hialeah
+Florida,High Springs
+Florida,Holly Hill
+Florida,Jacksonville
+Florida,Key West
+Florida,Lauderhill
+Florida,Lakeland
+Florida,Largo
+Florida,Leesburg
+Florida,Miami
+Florida,Miami Beach
+Florida,Miramar
+Florida,North Lauderdale
+Florida,North Miami
+Florida,North Port
+Florida,Ocala
+Florida,Orlando
+Florida,Panama City
+Florida,Pensacola
+Florida,Plant City
+Florida,Pompano Beach
+Florida,Port Orange
+Florida,Port St. Lucie
+Florida,Reunion
+Florida,Sanford
+Florida,Sarasota
+Florida,Sunrise
+Florida,Tallahassee
+Florida,Fort Pierce
+Florida,West Palm Beach
+Georgia,Acworth
+Georgia,Albany
+Georgia,Alpharetta
+Georgia,Atlanta
+Georgia,Athens
+Georgia,Auburn
+Georgia,Augusta
+Georgia,Brunswick
+Georgia,Columbus
+Georgia,Conyers
+Georgia,East Point
+Georgia,Evans
+Georgia,Georgia
+Georgia,LaGrange
+Georgia,Lithonia
+Georgia,Marietta
+Georgia,McDonough
+Georgia,Peachtree City
+Georgia,Richmond Hill
+Georgia,Roswell
+Georgia,Savannah
+Georgia,Stone Mountain
+Georgia,Valdosta
+Hawaii,Honolulu
+Hawaii,Hilo
+Hawaii,Kailua
+Hawaii,Kaneohe
+Hawaii,Lahaina
+Hawaii,Lihue
+Idaho,Boise
+Idaho,Caldwell
+Idaho,Coeur d'Alene
+Idaho,Idaho Falls
+Idaho,Meridian
+Idaho,Nampa
+Illinois,Alton
+Illinois,Chicago
+Illinois,Champaign
+Illinois,Peoria
+Illinois,Rockford
+Illinois,Springfield
+Indiana,Anderson
+Indiana,Fort Wayne
+Indiana,Indianapolis
+Indiana,South Bend
+Iowa,Ankeny
+Iowa,Des Moines
+Iowa,Dubuque
+Iowa,Sioux City
+Kansas,Emporia
+Kansas,Lawrence
+Kansas,Manhattan
+Kansas,Overland Park
+Kansas,Shawnee
+Kansas,Topeka
+Kentucky,Frankfort
+Kentucky,Lexington
+Kentucky,Louisville
+Kentucky,Owensboro
+Louisiana,Alexandria
+Louisiana,Baton Rouge
+Louisiana,Kenner
+Louisiana,Lafayette
+Louisiana,LaPlace
+Louisiana,Monroe
+Louisiana,New Orleans
+Louisiana,Shreveport
+Maine,Auburn
+Maine,Bangor
+Maine,Portland
+Maryland,Annapolis
+Maryland,Baltimore
+Massachusetts,Amherst
+Massachusetts,Boston
+Massachusetts,Lowell
+Michigan,Ann Arbor
+Michigan,Detroit
+Michigan,Flint
+Michigan,Lansing
+Michigan,Saginaw
+Minnesota,Bloomington
+Minnesota,Minneapolis
+Minnesota,Rochester
+Mississippi,Biloxi
+Mississippi,Jackson
+Missouri,Columbia
+Missouri,Kansas City
+Missouri,St. Louis
+Montana,Billings
+Montana,Bozeman
+Montana,Helena
+Nebraska,Lincoln
+Nebraska,Omaha
+Nevada,Las Vegas
+Nevada,Reno
+New Hampshire,Concord
+New Jersey,Atlantic City
+New Jersey,Newark
+New Mexico,Albuquerque
+New Mexico,Santa Fe
+New York,Albany
+New York,Buffalo
+New York,New York
+North Carolina,Charlotte
+North Carolina,Durham
+North Carolina,Greensboro
+North Carolina,High Point
+North Carolina, Raleigh
+North Dakota,Fargo
+Ohio,Canton
+Ohio,Cincinnati
+Ohio,Cleveland
+Ohio,Columbus
+Ohio,Dayton
+Ohio,Toledo
+Oklahoma,Norman
+Oklahoma,Oklahoma City
+Oregon,Portland
+Pennsylvania,Allentown
+Pennsylvania,Erie
+Pennsylvania,Philadelphia
+Pennsylvania,Pittsburgh
+Rhode Island,Providence
+South Carolina,Charleston
+South Carolina,Columbia
+South Dakota,Sioux Falls
+Tennessee,Chattanooga
+Tennessee,Knoxville
+Tennessee,Memphis
+Tennessee,Nashville
+Texas,Amarillo
+Texas,Arlington
+Texas,Austin
+Texas,Dallas
+Texas,Fort Worth
+Texas,Garland
+Texas,Houston
+Texas,Lubbock
+Texas,McKinney
+Texas,Mesquite
+Texas,San Antonio
+Texas,Temple
+Texas,Waco
+Texas,Weatherford
+Utah,Provo
+Utah,Salt Lake City
+Vermont,Burlington
+Virginia,Alexandria
+Virginia,Charlottesville
+Virginia,Fredericksburg
+Virginia,Richmond
+Virginia,Virginia Beach
+Washington,Bellevue
+Washington,Bellingham
+Washington,Everett
+Washington,Olympia
+Washington,Seattle
+Washington,Tacoma
+West Virginia,Huntington
+West Virginia,Martinsburg
+West Virginia,Parkersburg
+Wisconsin,Green Bay
+Wisconsin,Madison
+Wisconsin,Milwaukee
+Wyoming,Cheyenne
